@@ -6,7 +6,7 @@ This is a backlog of user stories for Pseudonym.
 
 ### Illustrated Features
 
-1. As an introvert and a word lover, I want to have a safe space for communicating my feelings privately through anonymous letter exchange with strangers.
+1. As an introvert and a word lover, I want to have a safe space for communicating my feelings privately through anonymous and random letter exchange with strangers.
 2. As a global citizen, I want to be able to communicate with friends from different parts of the world without language barriers through translation features.
 3. As a user, I want to be able to customize my profile to indicate my interests and preferred frequency of letter exchanges to find compatible matches.
 
