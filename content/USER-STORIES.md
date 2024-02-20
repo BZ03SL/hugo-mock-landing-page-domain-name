@@ -1,35 +1,29 @@
-# User Stories for IntegriMark
+# User Stories for Pseudonym
 
-This is a backlog of user stories for IntegriMark.
+This is a backlog of user stories for Pseudonym.
 
 ## Current Features
 
-These are features that are currently implemented in IntegriMark, and which feature on the landing page.
-
 ### Illustrated Features
 
-1. As an educator, I want to securely watermark PDF documents with unique, student-specific details, so I can trace the source of any leaked document back to the individual who shared it.
-2. As a student, I want to receive a customized URL for accessing encrypted files, so I can securely download educational materials shared by my educators.
-3. As an educator, I want to integrate IntegriMark with email systems for automated mailing of document links, streamlining the distribution process.
+1. As an introvert and a word lover, I want to have a safe space for communicating my feelings privately through anonymous letter exchange with strangers.
+2. As a global citizen, I want to be able to communicate with friends from different parts of the world without language barriers through translation features.
+3. As a user, I want to be able to customize my profile to indicate my interests and preferred frequency of letter exchanges to find compatible matches.
 
 ### Other Features
 
-1. As a system administrator, I want to employ an invisible layer of randomly generated text over watermarked documents, preventing meaningful text from being copied and ensuring the document's integrity.
-2. As an educator, I want to automate the encryption, hosting, and distribution of watermarked documents on platforms like GitHub Pages, ensuring a secure, cost-effective, and labor-efficient solution.
-3. As a developer or contributor, I want to easily install IntegriMark using pip, ensuring a straightforward setup process for users.
-4. As a user, I want to have a clear guide on how to use IntegriMark, including commands for creating encrypted bundles and generating URLs, so I can utilize the tool effectively. (_Note: We combined this user story with the previous one._)
+1. As a user, I want the platform to offer an intuitive and user-friendly letter editor with rich text formatting options, allowing me to express myself creatively and effectively in my letter exchanges.
+2. As an introvert, I seek a feature that introduces a deliberate lag for letter delivery, fostering slow-paced conversations and interactions to prevent feeling overwhelmed by the communication flow.
+3. As a user, I seek a feature that enables me to mark certain letters as favorites or highlight important conversations, facilitating better organization and retrieval of meaningful exchanges for future reference.
 
 ## Potential Features Expansion
 
-1. As an educator, I want to integrate IntegriMark with learning management systems (LMS) like Canvas or Moodle, so I can automate the distribution of watermarked documents within my existing teaching workflows.
-2. As a student, I want to receive notifications when new materials are available for download, ensuring I don't miss out on important educational content.
-3. As an educator, I want to view a dashboard of document access logs, so I can monitor which students have accessed the distributed materials and when.
-4. As a system administrator, I want to implement IP tracking for document access, enabling an additional layer of security and traceability for shared documents.
-5. As a user, I want to have the option to watermark and encrypt other types of documents, such as Word or PowerPoint files, expanding the tool's utility beyond PDFs.
-6. As an educator, I want to set expiration dates for access to watermarked documents, ensuring materials cannot be accessed after a certain date.
-7. As a developer, I want to contribute to IntegriMark by developing plugins or extensions, enhancing its functionality and customization options for different use cases.
-8. As an educator, I want to have the ability to revoke access to specific documents, providing flexibility and control over distributed materials.
-9. As a user, I want to access a history of accessed documents, enabling easy retrieval of previously downloaded materials.
-10. As an educator, I want to generate unique passwords for each encrypted file, enhancing the security of distributed materials.
-11. As a user, I want to customize the encryption strength and watermarking details, allowing for personalized security settings based on my specific needs.
-12. As a system administrator, I want to deploy IntegriMark on private servers or cloud platforms other than GitHub, providing flexibility in hosting options.
+1. As a user, I want to spontaneously receive a random letter from a stranger every week to have the possibility of creating new friendship.
+2. As a busy person, I want Pseudonym to have flexibility in terms of time commitment and engagement levels.
+3. As a user, I want the ability to block or permanently reject communications from specific users to maintain a positive experience.
+4. As a user, I want easy access to a history of my previous letter communications for reference and reflection.
+5.  As a user, I want the option to export my letter communications with other users to a local folder for archiving or offline access.
+6.  As a user, I want clear guidance and tutorials on how to use the platform's features effectively to maximize my experience.
+7.  As a user with limited internet connectivity, I want the option to save drafts of my letters offline and synchronize them with the platform when I regain connectivity.
+8.  As a visually impaired user, I want the platform to be accessible with screen readers and have customizable text sizes and contrast options for better readability of the letters.
+9.  As a user, I want the platform to provide real-time notifications for new letter exchanges, allowing me to stay updated to new letters, enhancing the overall communication experience.
